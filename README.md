@@ -1,5 +1,5 @@
-### Hey I'm Dallas! 
-######
+##Hey I'm Dallas! 
+
 I'm a recent CS graduate with a passion for data analysis and a strong desire to break into the tech industry. This profile serves as a showcase of my projects and skills as I continue to learn and grow in my field.
 
 My current focus is on building my data analysis skills, particularly in Python, SQL, Excel, and Tableau. 
