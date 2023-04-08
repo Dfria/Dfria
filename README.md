@@ -4,7 +4,7 @@ I'm a recent CS graduate with a passion for data analysis and a strong desire to
 
 My current focus is on building my data analysis skills, particularly in Python, SQL, Excel, and Tableau. 
 
-As of 4/4/23, I'm working on this Real World, Fake Data Tableau Dashboard. [Click Here](https://public.tableau.com/app/profile/jordan.dallas.frias/viz/HR-Dataset-RWFD/Sheet6)
+As of 4/4/23, I'm working on this Real World, Fake Data Tableau Dashboard. [Click Here](https://public.tableau.com/views/HRDashboardRWFD_16809252626350/HRDashboardLightMode?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 Please feel free to explore my repositories and don't hesitate to reach out! 
 
