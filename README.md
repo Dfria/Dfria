@@ -1,4 +1,3 @@
-## Hey I'm Dallas! 
 ## Hey I'm Dallas!
 
 👋 Hi there! I'm a recent CS graduate with a passion for data analysis and a strong desire to break into the tech industry. This profile serves as a showcase of my projects and skills as I continue to learn and grow in my field.
