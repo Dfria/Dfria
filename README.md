@@ -8,7 +8,7 @@
 * Excel 📊
 * Tableau 📈
 
-👨‍💻 As of 4/4/23, I'm working on this Real World, Fake Data Tableau Dashboard 🚀. 👉[Click Here](https://public.tableau.com/views/HRDashboardRWFD_16809252626350/HRDashboardLightMode?:language=en-US&:display_count=n&:origin=viz_share_link) 
+👨‍💻 As of 1/10/24, I'm working on this Book scraper for the website toscrape.com. [Click Here](https://github.com/Dfria/books-to-scrape) 
 
 🔍 Please feel free to explore my repositories and don't hesitate to reach out! 📩
 
