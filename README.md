@@ -22,7 +22,8 @@ Below is a log of the concepts I've been working on:
 |                      | - Practiced querying imported books-to-scrape data.  |
 | Friday, Feb 2, 2024    | - Began working on my dallascowboys project: A project that investigates the difference between the regular Dallas Cowboys vs. their performance in the playoffs. Implemented selenium webscraping to scrape data from [Pro-Football-Reference](https://www.pro-football-reference.com/). |
 |                      | - Attended an AEN networking event with Avanade!      |
-| Monday, Feb 5, 2024    | - Continued dallascowboys project: Worked on selenium implementation, exporting data to .CSVs, cleaning data in Pandas. Brainstormed what PKs / FKs to use for dallascowboys data. |
+| Monday, Feb 5, 2024    | - Continued dallascowboys project: Worked on selenium implementation, exporting data to .CSVs, cleaning data in Pandas: Removed empty rows for "Playoffs", combined columns to be formatted in a valid datetime datatype, dropped "Bye Week" columns. |
+|                         | - Brainstormed what PKs / FKs to use for dallascowboys data. |
 |                      | - Began the SQL50 on LeetCode.                        |
 | Tuesday, Feb 6, 2024   | - Started refresher on PowerBI for dallascowboys project. |
 |                      | - Watched online courses for PowerBI.                 |
