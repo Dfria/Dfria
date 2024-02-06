@@ -25,8 +25,8 @@ Below is a log of the concepts I've been working on:
 | Monday, Feb 5, 2024    | - Continued dallascowboys project: Worked on selenium implementation, exporting data to .CSVs, cleaning data in Pandas: Removed empty rows for "Playoffs", combined columns to be formatted in a valid datetime datatype, dropped "Bye Week" columns, revised column headers. |
 |                         | - Brainstormed what PKs / FKs to use for dallascowboys data. |
 |                      | - Began the SQL50 on LeetCode.                        |
-| Tuesday, Feb 6, 2024   | - Started refresher on PowerBI for dallascowboys project. |
-|                      | - Watched online courses for PowerBI.                 |
+| Tuesday, Feb 6, 2024   | - Began the [Microsoft Power BI Data Analyst](https://www.coursera.org/learn/preparing-data-for-analysis-with-microsoft-excel) course on Coursera. |
+|                      | - Completed the [Prepare Data for Analysis with Microsoft Excel](https://coursera.org/share/c99d31e51a11346f8f2b491b4bd02076) course! |
 
 
 🔍 Please feel free to explore my repositories and don't hesitate to reach out! 📩
