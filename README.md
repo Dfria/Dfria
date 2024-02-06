@@ -6,7 +6,7 @@
 * Python 🐍
 * SQL 💾
 * Excel 📊
-* Tableau 📈
+* Tableau, Power BI 📈
 
 👨‍💻 As of 2/1/24, I'm working on this Book scraper for the website toscrape.com. [Click Here](https://github.com/Dfria/books-to-scrape) 
 
