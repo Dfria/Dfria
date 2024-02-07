@@ -27,6 +27,7 @@ Below is a log of the concepts I've been working on:
 |                      | - Began the SQL50 on LeetCode.                        |
 | Tuesday, Feb 6, 2024   | - Began the [Microsoft Power BI Data Analyst](https://www.coursera.org/learn/preparing-data-for-analysis-with-microsoft-excel) course on Coursera. |
 |                      | - Completed the [Prepare Data for Analysis with Microsoft Excel](https://coursera.org/share/c99d31e51a11346f8f2b491b4bd02076) course! |
+|                      | - Left off on [Harnessing the Power of Data with Power BI](https://www.coursera.org/learn/harnessing-the-power-of-data-with-power-bi/home/week/1) |
 
 
 🔍 Please feel free to explore my repositories and don't hesitate to reach out! 📩
