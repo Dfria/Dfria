@@ -8,7 +8,7 @@
 * Excel 📊
 * Tableau, Power BI 📈
 
-👨‍💻 As of 2/6/24, I'm working on obtaining Microsoft certifications for Power BI. [Click Here](https://coursera.org/share/c99d31e51a11346f8f2b491b4bd02076)
+👨‍💻 As of 2/13/24, I'm working a Power BI Dashboard - IT Ticketing Dashboard. [Click Here]((https://github.com/Dfria/IT-Ticketing-Dashboard))
 
 Below is a log of the concepts I've been working on:
 
