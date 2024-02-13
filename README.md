@@ -8,7 +8,7 @@
 * Excel 📊
 * Tableau, Power BI 📈
 
-👨‍💻 As of 2/13/24, I'm working a Power BI Dashboard - IT Ticketing Dashboard. [Click Here]((https://github.com/Dfria/IT-Ticketing-Dashboard))
+👨‍💻 As of 2/13/24, I'm working a Power BI Dashboard - IT Ticketing Dashboard. [Click Here]([https://github.com/Dfria/IT-Ticketing-Dashboard])
 
 Below is a log of the concepts I've been working on:
 
