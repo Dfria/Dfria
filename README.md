@@ -41,7 +41,7 @@ Below is a log of the concepts I've been working on:
 |                      | - Continued practicing SQL50 on LeetCode.                        |
 | Tuesday, Feb 13, 2024   |  - Continued work on IT Ticketing Dashboard. |
 |                      | - Practiced designing DAX functions that calculate percentages. Created and formatted duplicate pages to accompany a dark mode. |
-|                      | - Pushed IT Ticketing Dashboard to GitHub. |
+|                      | - Pushed IT Ticketing Dashboard to GitHub. [IT-Ticketing-Dashboard](https://github.com/Dfria/IT-Ticketing-Dashboard) |
 
 🔍 Please feel free to explore my repositories and don't hesitate to reach out! 📩
 
