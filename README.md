@@ -50,8 +50,8 @@ Below is a log of the concepts I've been working on:
 | Saturday, Feb 17, 2024 | - Continued development of Flask portfolio website. Created projects page. Fixed skill cards to resize with browser widths. |
 | Sunday, Feb 18, 2024 | - Continued development of Flask portfolio website. Created contact me page and hamburger menu at certain browser widths. |
 | Monday, Feb 19, 2024    | - Continued development of Flask portfolio website. Cleaned up CSS and hamburger menu. |
-|                         | - Pointed PythonAnywhere to myDomain. Pushed website to [www.jordandallasfrias.com](jordandallasfrias.com)! |
-| Tuesday, Feb 20, 2024   |  - Continued development of Flask portfolio website. Pointed nakedSSL name to reroute to [www.jordandallasfrias.com](jordandallasfrias.com) |
+|                         | - Pointed PythonAnywhere to myDomain. Pushed website to [www.jordandallasfrias.com](https://www.jordandallasfrias.com)! |
+| Tuesday, Feb 20, 2024   |  - Continued development of Flask portfolio website. Pointed nakedSSL name to reroute to [www.jordandallasfrias.com](https://www.jordandallasfrias.com) |
 |                      | - Minor fixes in CSS. Transitions not applying, position of hamburger menu, dark mode having white shadow on hovers. |
 | Wednesday, Feb 21, 2024 | - Continued development of Flask portfolio website. More minor fixes in CSS: navbar position, padding between text. |
 | Monday, Feb 26, 2024    | - Researched new data project for portfolio website. Brainstormed maybe showing my most recently listened to songs. |
