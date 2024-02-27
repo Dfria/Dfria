@@ -43,6 +43,19 @@ Below is a log of the concepts I've been working on:
 | Tuesday, Feb 13, 2024   |  - Continued work on IT Ticketing Dashboard. |
 |                      | - Practiced designing DAX functions that calculate percentages. Created and formatted duplicate pages to accompany a dark mode. |
 |                      | - Pushed IT Ticketing Dashboard to GitHub. [IT-Ticketing-Dashboard](https://github.com/Dfria/IT-Ticketing-Dashboard) |
+| Wednesday, Feb 14, 2024 | - Job application day.  |
+| Thursday, Feb 15, 2024  | - Continued job application day. |
+|                      | - Began development of Flask portfolio website. Refreshed HTML CSS. |
+| Friday, Feb 16, 2024    |  - Continued Development of Flask portfolio website. Created navbar, home page, footer. Refreshed CSS. Established dark mode color variables. Took skill cards images. |
+| Saturday, Feb 17, 2024 | - Continued development of Flask portfolio website. Created projects page. Fixed skill cards to resize with browser widths. |
+| Sunday, Feb 18, 2024 | - Continued development of Flask portfolio website. Created contact me page and hamburger menu at certain browser widths. |
+| Monday, Feb 19, 2024    | - Continued development of Flask portfolio website. Cleaned up CSS and hamburger menu. |
+|                         | - Pointed PythonAnywhere to myDomain. Pushed website to [www.jordandallasfrias.com](www.jordandallasfrias.com)! |
+| Tuesday, Feb 20, 2024   |  - Continued development of Flask portfolio website. Pointed nakedSSL name to reroute to [www.jordandallasfrias.com](www.jordandallasfrias.com) |
+|                      | - Minor fixes in CSS. Transitions not applying, position of hamburger menu, dark mode having white shadow on hovers. |
+| Wednesday, Feb 21, 2024 | - Continued development of Flask portfolio website. More minor fixes in CSS: navbar position, padding between text. |
+| Monday, Feb 26, 2024    | - Researched new data project for portfolio website. Brainstormed maybe showing my most recently listened to songs. |
+|                         | - Created a simple Power BI chart that shows weeks. Uses a new table, WEEKNUM(), and a DAX function that uses a Week Number index to sort. |
 
 🔍 Please feel free to explore my repositories and don't hesitate to reach out! 📩
 
