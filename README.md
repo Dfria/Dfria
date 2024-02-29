@@ -56,6 +56,8 @@ Below is a log of the concepts I've been working on:
 | Wednesday, Feb 21, 2024 | - Continued development of Flask portfolio website. More minor fixes in CSS: navbar position, padding between text. |
 | Monday, Feb 26, 2024    | - Researched new data project for portfolio website. Brainstormed maybe showing my most recently listened to songs. |
 |                         | - Created a simple Power BI chart that shows weeks. Uses a new table, WEEKNUM(), and a DAX function that uses a Week Number index to sort. |
+| Thursday, Feb 29, 2024   | - Picked back up on obtaining Power BI certifications. Completed the [Harnessing the Power of Data with Power BI](https://coursera.org/share/81fd3ba3ca759629143b6200ee89a318) course! |
+
 
 🔍 Please feel free to explore my repositories and don't hesitate to reach out! 📩
 
