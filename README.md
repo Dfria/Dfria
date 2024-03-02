@@ -58,7 +58,6 @@ Below is a log of the concepts I've been working on:
 |                         | - Created a simple Power BI chart that shows weeks. Uses a new table, WEEKNUM(), and a DAX function that uses a Week Number index to sort. |
 | Thursday, Feb 29, 2024   | - Picked back up on obtaining Power BI certifications. Completed the [Harnessing the Power of Data with Power BI](https://coursera.org/share/81fd3ba3ca759629143b6200ee89a318) course! |
 | Friday, Mar 1, 2024    |  - Completed the [Extract, Transform and Load Data in Power BI](https://coursera.org/share/e6a97cde725bbfd179638905ec93939e) course! |
-https://coursera.org/share/e6a97cde725bbfd179638905ec93939e
 
 🔍 Please feel free to explore my repositories and don't hesitate to reach out! 📩
 
